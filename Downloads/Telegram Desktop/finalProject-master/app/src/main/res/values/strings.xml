@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Details</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+</resources>
